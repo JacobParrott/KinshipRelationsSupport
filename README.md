@@ -6,11 +6,10 @@
 
 ## 📱 App Previews
 
-| iOS Version | Android Version |
-| :---: | :---: |
-| | |
-| ![iOS Preview](https://via.placeholder.com/1242x2688?text=iOS+Screenshot+Placeholder) | ![Android Preview](https://via.placeholder.com/1242x2688?text=Android+Screenshot+Placeholder) |
-
+<p align="center">
+  <img src="01.png" width="300" alt="iOS Version">
+  <img src="YOUR_ANDROID_IMAGE_URL" width="300" alt="Android Version" style="margin-left: 20px;">
+</p>
 ---
 
 ## ✨ Features
