@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="01.png" width="300" alt="iOS Version">
-  <img src="YOUR_ANDROID_IMAGE_URL" width="300" alt="Android Version" style="margin-left: 20px;">
+  <img src="02.png" width="293" alt="Android Version" style="margin-left: 20px;">
 </p>
 ---
 
